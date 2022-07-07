@@ -4,7 +4,7 @@
   "description": "",
   "main": "Check_time.js",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.25",
     "mysql": "^2.17.1",
     "nexmo": "^2.4.1",
